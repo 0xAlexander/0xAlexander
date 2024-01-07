@@ -21,7 +21,7 @@ My focus areas include:
 - Big on exploring yummy culinary experiences.
 
 # 📫 Contact
-To say hi, DM me on [Discord](discordapp.com/users/0xAlexander) or [LinkedIn](https://www.linkedin.com/in/0xalexander/).
+To say hi, DM me on [Discord](https://discordapp.com/users/0xAlexander) or [LinkedIn](https://www.linkedin.com/in/0xalexander/).
 
 For professional inquiries, reach out via email at [alexander@meikopoulos.com](mailto:alexander@meikopoulos.com)
 
