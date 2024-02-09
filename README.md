@@ -3,11 +3,11 @@
 I'm a Front-End Software Engineer and Founder based in Greece. I'm passionate about creating engaging and quality digital experiences, blockchain, finance, and cryptography.
 
 - Discover more about me @ [meikopoulos.com](https://meikopoulos.com).
-- Learn more about MtopSwap @ [mtopswap.com](https://mtopswap.com).
+- Learn more about Swoop Exchange @ [swoop.exchange](https://swoop.exchange).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/0xalexander/). Always eager to help and contribute.
 
 # 🔭 Current Endeavors
-Currently leading MtopSwap's strategic and front-end development. Simultaneously, I lead the Quality Assurance department for Renewable Energy projects in a Steel Manufacturing company.
+Currently leading Swoop Exchange strategic and front-end development. Simultaneously, I lead the Quality Assurance department for Renewable Energy projects in a Steel Manufacturing company.
 
 My focus areas include:
 - Innovative web3 projects with web2 UI/UX.
