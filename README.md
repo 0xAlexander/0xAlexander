@@ -1,6 +1,6 @@
 # Hi, I'm Alexander 👋
 
-I'm a Front-End Software Developer and Founder based in Greece. I'm passionate about creating engaging and quality digital experiences, blockchain, finance, and cryptography.
+I'm a junior Front-End Software Developer and Founder based in Greece. I'm passionate about creating engaging and quality digital experiences, blockchain, finance, and cryptography.
 
 - Discover more about me @ [meikopoulos.com](https://meikopoulos.com).
 - Learn more about Swoop Exchange @ [swoop.exchange](https://swoop.exchange).
