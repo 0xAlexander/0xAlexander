@@ -4,10 +4,11 @@ I'm a junior Front-End Developer and Founder based in Greece. I'm passionate abo
 
 - Discover more about me @ [meikopoulos.com](https://meikopoulos.com).
 - Learn more about Swoop Exchange @ [swoop.exchange](https://swoop.exchange).
+- Learn more about Vela Exchange @ [vela.exchange](https://vela.exchange).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/0xalexander/). Always eager to help and contribute.
 
 # 🔭 Current Endeavors
-Currently leading Swoop Exchange strategic and front-end development. Simultaneously, I'm a full time Junior Front-end Developer and Designer at Vela Exchange. Ex. Senior Quality Assurance Engineer for Renewable Energy Projects in the Steel Manufacturing sector.
+Currently leading Swoop Exchange strategic and front-end development. Simultaneously, I'm a full-time Junior Front-end Developer and Designer at Vela Exchange. Ex. Senior Quality Assurance Engineer for Renewable Energy Projects in the Steel Manufacturing sector.
 
 My focus areas include:
 - Innovative web3 projects with web2 UI/UX.
