@@ -4,7 +4,7 @@ I'm a Product Designer and Front-End Developer based in Greece, with a backgroun
 
 - More about me @ [meikopoulos.com](https://meikopoulos.com)  
 - See my product design work @ [meik.design](https://meik.design)  
-- Projects:[Newmoney Wallet](https://web.newmoney.ai), [Swoop Exchange](https://swoop.exchange), [Vela Exchange](https://x.com/vela_exchange)  
+- Projects: [Newmoney Wallet](https://web.newmoney.ai), [Swoop Exchange](https://swoop.exchange), [Vela Exchange](https://x.com/vela_exchange)  
 - Connect on [LinkedIn](https://www.linkedin.com/in/0xalexander) or [Telegram](https://t.me/Oxalexander88)
 
 ## 🔭 What I'm Working On
