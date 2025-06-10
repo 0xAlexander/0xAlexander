@@ -1,25 +1,37 @@
-# Hi, I'm Alexander 👋
+# Hi, I'm Alex 👋
 
-I'm a junior Front-End Developer and Founder based in Greece. I'm passionate about creating engaging and quality digital experiences, blockchain, finance, and cryptography.
+I'm a Product Designer and Front-End Developer based in Greece, with a background in quality engineering and a focus on building clear, fast, and intuitive digital products — especially in Web3, fintech, and AI.
 
-- Discover more about me @ [meikopoulos.com](https://meikopoulos.com).
-- Learn more about Swoop Exchange @ [swoop.exchange](https://swoop.exchange).
-- Learn more about Vela Exchange @ [vela.exchange](https://vela.exchange).
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/0xalexander/). Always eager to help and contribute.
+- More about me @ [meikopoulos.com](https://meikopoulos.com)  
+- See my product design work @ [meik.design](https://meik.design)  
+- Projects:[Newmoney Wallet](https://web.newmoney.ai), [Swoop Exchange](https://swoop.exchange), [Vela Exchange](https://x.com/vela_exchange)  
+- Connect on [LinkedIn](https://www.linkedin.com/in/0xalexander) or [Telegram](https://t.me/Oxalexander88)
 
-# 🔭 Current Endeavors
-Currently leading Swoop Exchange strategic and front-end development. Simultaneously, I'm a full-time Junior Front-end Developer and Designer at Vela Exchange. Ex. Senior Quality Assurance Engineer for Renewable Energy Projects in the Steel Manufacturing sector.
+## 🔭 What I'm Working On
 
-My focus areas include:
-- Innovative web3 projects with web2 UI/UX.
-- Expanding my expertise in various tools and libraries.
-- Dedicated to constant learning to transition fully in tech.
-- Studying back-end tools for a comprehensive understanding.
+I'm currently the Head of Product Design at [Newmoney.ai](https://newmoney.ai), building the first AI-powered crypto and cash wallet.  
+Previously led design at Vela Exchange and co-founded Swoop Exchange, where I also built the front end.
+
+Before product design, I spent years in quality assurance for renewable energy — which trained me to design with precision and structure.
+
+## 🧠 What I Focus On
+
+- **Designing intuitive systems** that reduce user friction, especially in high-stakes interfaces (trading, wallets, agents)
+- **Bridging design and code**, working closely with devs and contributing to front-end where needed
+- **Scaling design systems** that support speed, clarity, and maintainability
+- **Blending Web3 logic with Web2-level UX**
+
+## 🛠️ Background & Tools
+
+**Design**: Figma, Prototyping, Design Systems, UX Research, Wireframing, IA  
+**Front-End**: React, Next.js, TypeScript, TailwindCSS, Git  
+**Past life**: QA Engineer for steel/renewables, ISO-compliance, audit systems
 
 # ✨ Fun Facts
 - Keen on learning about blockchain and cryptography.
 - I enjoy outdoor activities, especially hiking and free camping.
 - Big on exploring yummy culinary experiences.
+- Bing on Manga and Anime.
 
 # 📫 Contact
 To say hi, DM me on [Discord](https://discordapp.com/users/0xAlexander) or [LinkedIn](https://www.linkedin.com/in/0xalexander/).
