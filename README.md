@@ -31,7 +31,7 @@ Before product design, I spent years in quality assurance for renewable energy â
 - Keen on learning about blockchain and cryptography.
 - I enjoy outdoor activities, especially hiking and free camping.
 - Big on exploring yummy culinary experiences.
-- Bing on Manga and Anime.
+- Big on Manga and Anime.
 
 # ðŸ“« Contact
 To say hi, DM me on [Discord](https://discordapp.com/users/0xAlexander) or [LinkedIn](https://www.linkedin.com/in/0xalexander/).
